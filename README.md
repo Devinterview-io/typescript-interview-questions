@@ -1,4 +1,4 @@
-# 🖲 39 TypeScript interview questions for web developers in 2021
+# 🖲 39 TypeScript interview questions for web developers in 2023
 
 TypeScript is a must know if you're a front developer or even a fullstack developer. Our curated list of TypeScript questions can be used for all levels of developers. Go through all questions and nail your next web developer tech interview in 2021.
 
