@@ -317,6 +317,8 @@ const selectedType: MediaTypes = MediaTypes.Image;
 // ✅ Accessing the value
 const associatedText: string = MediaTypes.Image;
 
+// ❌ This is not allowed due to type safety
+// const invalidType: MediaTypes = 'image';
 ```
 
  the Enum helps ensure the proper data type and its values.
